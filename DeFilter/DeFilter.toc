@@ -1,0 +1,6 @@
+## Interface: 11303
+## Title: DeFilter
+## Title-zhCN: 拒绝河蟹
+## Version: update 20200501
+
+Load.xml
